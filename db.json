@@ -1,0 +1,10 @@
+{
+    "restaurant": [
+      { "id": 1, "title": "poseidon", "adreess": "panagi tsaldari 34", "email":"poseid@gmail.com" },
+      { "id": 2, "title": "Zoumperi", "adreess": "panagi tsaldari 20", "email":"zoump@gmail.com" },
+      { "id": 3, "title": "Akrogiali", "adreess": "Strat. lekka 17", "email":"akrog@gmail.com" },
+      { "id": 4, "title": "Xenofon", "adreess": "poseidonos 48", "email":"xenof@gmail.com" },
+      { "id": 5, "title": "Elia", "adreess": "Dionysou 34", "email":"elia@gmail.com" }
+    ]
+    
+  }
